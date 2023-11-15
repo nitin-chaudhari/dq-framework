@@ -1,0 +1,8 @@
+id,technology,product
+1,python,DQ Engine
+2,pyspark,DQ Engine
+3,snowflake,DQ Engine
+4,python,SQL Script Generator
+5,pyspark,Data Ingestion
+6,python,Data Comparision Tool
+7,pyspark,Data Loader

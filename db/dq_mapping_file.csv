@@ -1,0 +1,3 @@
+id,column_name,dq_rule
+1,id,not_null_chk
+2,email,email_chk
